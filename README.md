@@ -1,5 +1,5 @@
-Pré-visualização do website
+## Demo - Get Postagem :iphone:
 
-URL: https://hebergustavo.github.io/Website-GetPostagem/
+URL: https://hebergustavo.github.io/get-postagem-website/
 
-![image](https://github.com/heberGustavo/Website-GetPostagem/assets/44476616/b05c56e2-a77f-4d65-b60b-9a3e3e3df13a)
+![image](https://github.com/user-attachments/assets/bea425ae-3da3-4eeb-b46b-283b785c01c9)
