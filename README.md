@@ -2,4 +2,4 @@
 
 URL: https://hebergustavo.github.io/get-postagem-website/
 
-![image](https://github.com/user-attachments/assets/bea425ae-3da3-4eeb-b46b-283b785c01c9)
+![download](https://github.com/user-attachments/assets/7b8033d7-9dfe-49a1-9d88-dc249e7325ae)
